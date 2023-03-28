@@ -16,4 +16,4 @@
 ! 
 ! -----------------------General advert blocking filters-----------------------!
 ! *** easylist:easylist/easylist_general_block.txt ***
-||chat.openai.com/backend-api/moderations
+||chat.openai.com/backend-api/moderations*
