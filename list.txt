@@ -1,1 +1,2 @@
+[Adblock Plus 2.0]
 chat.openai.com/backend-api/moderations
